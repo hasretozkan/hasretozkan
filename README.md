@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hasret Özkan</h1>
 <h3 align="center">Software Engineer - React Native Developer - Machine Learning Engineer</h3>
 
-- 👨‍💻 All of my projects are available at [hasretozkan.com](hasretozkan.com)
+- 👨‍💻 All of my projects are available at [hasretozkan.com](https://hasretozkan.com)
 
-- 📝 I regularly write articles on [medium.com/@hasretozkan](medium.com/@hasretozkan)
+- 📝 I regularly write articles on [medium.com/@hasretozkan](https://medium.com/@hasretozkan)
 
 - 💬 Ask me about **react, javascript, python**
 
