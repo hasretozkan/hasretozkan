@@ -3,9 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [hasretozkan.com](https://hasretozkan.com)
 
-- 📝 I regularly write articles on [medium.com/@hasretozkan](https://medium.com/@hasretozkan)
-
-- 💬 Ask me about **react, javascript, python**
+- 💬 Ask me about **react, react-native, javascript, typescript, python**
 
 - 📫 How to reach me **hasretozkan1@gmail.com**
 
