@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hasret Özkan</h1>
 <h3 align="center">Front-End Software Engineer from Turkey</h3>
 
-- 👨‍💻 All of my projects are available at [hasretozkan.com](hasretozkan.com)
+- 👨‍💻 All of my projects are available at [hasretozkan.com](https://hasretozkan.com)
 
 - 💬 Ask me about **react, react-native, javascript, typescript, python**
 
